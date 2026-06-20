@@ -47,7 +47,7 @@ input[type="file"] {
 canvas {
 	grid-column: 2;
 	grid-row: 2;
-	border: 1px solid #d5d5d5;
+	border: 1px solid #282822;
 }
 
 .note {
@@ -73,7 +73,7 @@ canvas {
 	padding-inline: 0.5rem;
 	padding-block: 0.25rem;
 	background-color: transparent;
-	border: 1px solid #d5d5d5;
+	border: 1px solid #282822;
 	cursor: pointer;
 }
 
@@ -96,7 +96,7 @@ canvas {
 	width: 100%;
 	background-color: transparent;
 	border-style: unset;
-	border-bottom: 1px solid #d5d5d5;
+	border-bottom: 1px solid #282822;
 }
 
 .setting__text-input:focus {
